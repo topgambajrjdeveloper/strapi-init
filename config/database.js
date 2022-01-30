@@ -18,4 +18,3 @@ module.exports = ({ env }) => ({
     },
   },
 });
-//mongodb+srv://t0pg4mba:5YGEUH1w3MsfErlq@cluster0.nb8y8.mongodb.net/dev-cordenadas?retryWrites=true&w=majority
